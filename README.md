@@ -8,3 +8,5 @@ Utilisation :
 
 Version final:
 [Formulaire-SI1.pdf](https://github.com/Theryh/Formulaire/files/11212735/Formulaire-SI1.pdf)
+
+Note: Le blog n'est pas totalement fonctionnel
